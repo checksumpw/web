@@ -43,7 +43,7 @@
 	<p class="text-lg" />
 	<ol class="list-disc list-inside">
 		<li>
-			Join our <a href="https://discord.gg/UAPNesVmQ3">Discord server</a>.
+			Join our <a href="https://discord.gg/UAPNesVmQ3" class="text-rose-600 hover:text-rose-500 font-semibold">Discord server</a>.
 		</li>
 		<li>
 			Run the <code>/register</code> after you have been in the server for at least 24 hours.

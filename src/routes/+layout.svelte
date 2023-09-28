@@ -5,6 +5,6 @@
 
 <Nav />
 
-<div class="mx-auto w-screen h-screen text-white p-4">
+<div class="mx-auto text-white p-4">
 	<slot />
 </div>
