@@ -46,7 +46,7 @@
 			Join our <a href="https://discord.gg/UAPNesVmQ3" class="text-rose-600 hover:text-rose-500 font-semibold">Discord server</a>.
 		</li>
 		<li>
-			Run the <code>/register</code> after you have been in the server for at least 24 hours.
+			Run the <code>/register</code> after you have been in the server for at least 30 minutes.
 			<i>You can run it early to see how much time you have left.</i>
 		</li>
 		<li>
